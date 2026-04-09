@@ -11,6 +11,7 @@ python-dotenv = "*"
 openai = "*"
 environs = "*"
 psycopg2-binary = "*"
+whitenoise = "*"
 
 [dev-packages]
 
