@@ -7,6 +7,7 @@ Django==6.0.2
 django-cors-headers==4.9.0
 djangorestframework==3.16.1
 environs==14.6.0
+gunicorn==25.3.0
 h11==0.16.0
 httpcore==1.0.9
 httpx==0.28.1
@@ -14,6 +15,7 @@ idna==3.11
 jiter==0.13.0
 marshmallow==4.2.2
 openai==2.24.0
+packaging==26.0
 psycopg2-binary==2.9.11
 pydantic==2.12.5
 pydantic_core==2.41.5
